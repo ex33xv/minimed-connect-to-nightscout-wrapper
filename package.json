@@ -10,8 +10,11 @@
   "author": "",
   "license": "MIT",
   "engines": {
-    "node": "^10.15.2 || ^8.15.1",
-    "npm": "^6.4.1"
+    "node": ">=10.15.2 || >=8.15.1",
+    "npm": ">6.4.1"
+  },
+  "scripts": {
+    "start": "node run.js",
   },
   "dependencies": {
     "dotenv": "*",
