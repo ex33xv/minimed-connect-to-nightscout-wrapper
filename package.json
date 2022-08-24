@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "dotenv": "*",
-    "minimed-connect-to-nightscout": "github:FredMK/minimed-connect-to-nightscout#axios"
+    "minimed-connect-to-nightscout": "github:ex33xv/minimed-connect-to-nightscout#axios"
   }
 }
